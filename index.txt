@@ -1,0 +1,6 @@
+CREATE TABLE tbl_data(
+  First_Name varchar(20),
+  Last_Name varchar(20),
+  Address varchar(30),
+  DOB date
+)
